@@ -48,4 +48,6 @@ Proyecto realizado para practicar el desarrollo backend con Spring Boot, arquite
 2. Configurar la base de datos en `application.properties`
 3. Ejecutar:
 
-##
+## 📷 Capturas
+<img width="767" height="933" alt="react01" src="https://github.com/user-attachments/assets/72959f6e-b70e-4a6e-9e92-df652c730e27" />
+
