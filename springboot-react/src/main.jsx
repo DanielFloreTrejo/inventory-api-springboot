@@ -5,6 +5,6 @@ import { ProductsApp } from './ProductsApp.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <ProductsApp title = { 'Primer paso con React' }/>
+    <ProductsApp title = { 'main con React' }/>
   </StrictMode>,
 )
